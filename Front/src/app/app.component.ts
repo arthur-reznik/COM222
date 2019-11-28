@@ -9,7 +9,7 @@ import { AuthService } from './database';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-    title = 'Livraria Taets';
+    title = 'Lula Livro';
     config = new ToasterConfig({
         positionClass: 'toast-bottom-right'
     });

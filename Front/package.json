@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "^7.0.4",
     "@angular/router": "^7.0.4",
     "@nguniversal/express-engine": "^7.0.2",
-    "angular": "^1.7.9",
+    "angular": "^1.8.3",
     "angular2-toaster": "^7.0.0",
     "await-to-js": "^2.1.1",
     "core-js": "^2.5.4",
